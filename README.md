@@ -14,7 +14,7 @@ The goal is to help mission-driven teams move faster by giving them reusable sof
 |---|---|---|
 | Climate data infrastructure | ClimateDataFetcher | https://github.com/sekacorn/ClimateDataFetcher |
 | Climate + public health | ClimateHealthMapper | https://github.com/sekacorn/ClimateHealthMapper |
-| Disaster resilience | DisasterResilienceHub | https://github.com/sekacorn/Disaster-Resileince-Hub |
+| Disaster resilience | DisasterResilienceHub | https://github.com/sekacorn/Disaster-Resilience-Hub |
 | Education + genetics learning | EduGeneLearn | https://github.com/sekacorn/Edu-Gene-Learn |
 | Energy equity | EnergyEquityGrid | https://github.com/sekacorn/EnergyEquityGrid |
 | Food security | FoodSecurityNet | https://github.com/sekacorn/FoodSecurityNet |
