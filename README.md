@@ -1,12 +1,12 @@
 # Open-Source Humanitarian Infrastructure Suite
 
-A collection of free, open-source humanitarian software tools for NGOs, researchers, universities, civic technologists, public-interest developers, students, community organizations, and local governments working on climate data, climate health, disaster resilience, food security, water access, energy equity, education research, and crisis coordination.
+A collection of free, open-source humanitarian software tools for NGOs, researchers, universities, civic technologists, public-interest developers, students, community organizations, and local governments working on climate data, climate health, disaster resilience, food security, water access, energy equity, education research, crisis coordination, and research infrastructure.
 
 ## Mission
 
 This suite is designed to provide public-interest organizations with inspectable, forkable, and self-hostable software foundations for humanitarian and civic technology work.
 
-The goal is to help mission-driven teams move faster by giving them reusable software starting points for collecting data, analyzing risks, visualizing problems, coordinating resources, and supporting communities.
+The goal is to help mission-driven teams move faster by giving them reusable software starting points for collecting data, analyzing risks, visualizing problems, coordinating resources, supporting communities, and organizing research workflows.
 
 ## Projects
 
@@ -20,6 +20,7 @@ The goal is to help mission-driven teams move faster by giving them reusable sof
 | Food security | FoodSecurityNet | https://github.com/sekacorn/FoodSecurityNet |
 | Water access planning | WaterAccessOptimizer | https://github.com/sekacorn/WaterAccessOptimizer |
 | Crisis coordination | CrisisConnect | https://github.com/sekacorn/CrisisConnect |
+| Research infrastructure | Research-OS | https://github.com/sekacorn/Research-OS |
 
 ## Who This Is For
 
@@ -32,6 +33,7 @@ The goal is to help mission-driven teams move faster by giving them reusable sof
 - Local governments and policy teams
 - Disaster response and resilience teams
 - Public health and climate research groups
+- Research labs and open science teams
 
 ## Focus Areas
 
@@ -43,13 +45,14 @@ The goal is to help mission-driven teams move faster by giving them reusable sof
 - Energy equity
 - Crisis coordination
 - Education and research tools
+- Research infrastructure
 - Civic technology and public-interest software
 
 ## How the Suite Fits Together
 
 These projects are designed around a common humanitarian software pattern:
 
-**Collect data -> analyze risk -> visualize needs -> coordinate action -> support communities**
+**Collect data -> analyze risk -> visualize needs -> coordinate action -> support communities -> organize research**
 
 - **ClimateDataFetcher** supports climate and environmental data collection.
 - **ClimateHealthMapper** connects climate data with public health risk mapping.
@@ -59,6 +62,7 @@ These projects are designed around a common humanitarian software pattern:
 - **EnergyEquityGrid** supports energy equity research and community energy planning.
 - **EduGeneLearn** supports education and research workflows.
 - **CrisisConnect** supports humanitarian coordination between people in need and organizations that can help.
+- **Research-OS** supports research organization, knowledge workflows, and public-interest research infrastructure.
 
 ## Public-Interest Use
 
@@ -72,6 +76,7 @@ Possible users include:
 - A community organization tracking water access needs
 - A local government exploring energy equity planning
 - A humanitarian group coordinating crisis support
+- A research team organizing public-interest research workflows
 
 ## Contributing
 
